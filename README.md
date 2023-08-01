@@ -1,8 +1,5 @@
 # [Text Summarizer](https://en.wikipedia.org/wiki/Automatic_summarization)
 
-## Description
-Text Summary tool - a project which was part of Artificial Intelligence course at BITS Pilani 
-
 ## Algorithms
 
 ### 1.	[Automatic extraction based on weighting](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings3/NTCIR3-TSC-SekiY.pdf)
